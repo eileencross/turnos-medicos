@@ -1,7 +1,7 @@
 # Acta 00: Constitución del equipo
 
 **Proyecto:** Turnos Médicos
-**Fecha:** [DD/MM/AAAA]
+**Fecha:** [31/08/2026]
 **Modalidad:** Llamada por Discord
 **Participantes:** Eileen Cruz, Abigail Aramayo, Fernando Aramayo, Florencia Vivas
 **Redactora del acta:** Eileen Cruz, Directora del proyecto
@@ -11,9 +11,9 @@
 | Integrante | Rol | Responsabilidad principal |
 |------------|-----|---------------------------|
 | Eileen Cruz | Directora del proyecto | Coordinar al equipo, asignar tareas, hacer seguimiento y redactar las actas |
-| Abigail Aramayo | [Desarrolladora backend] | 
-| Fernando Aramayo | [Desarrollador backend] | 
-| Florencia Vivas | [Desarolladora frontend] | 
+| Abigail Aramayo | Desarrolladora backend | API FastAPI, modelos/SQLAlchemy, autenticación/JWT
+| Fernando Aramayo | Desarrollador backend | Lógica de negocio (turnos, horarios), base de datos/PostgreSQL
+| Florencia Vivas | Desarolladora frontend | Interfaz React, componentes, integración con la API
 
 ## 2. De qué trata el proyecto
 
